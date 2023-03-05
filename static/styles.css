@@ -1,0 +1,19 @@
+
+body {
+  background-image: url('https://editor.analyticsvidhya.com/uploads/92479airplane-wallpaper-2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+  h1{
+    color:black;
+    font-family: verdana;
+    font-size: 300%;
+  }
+
+h3{
+  color:antiquewhite;
+  font-style:oblique;
+  font-size: 200%;
+}
