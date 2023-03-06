@@ -16,4 +16,4 @@ RUN pip install -r requirements.txt
 ENV PORT 8080
 
 # Run the application:
-CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT} --workers 1
+CMD exec uvicorn app:app --host 0.0.0.0 --port ${PORT} --workers 1
